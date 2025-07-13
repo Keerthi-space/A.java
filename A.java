@@ -1,7 +1,7 @@
 package com.example; 
  
   public class A {     
-  static int s =  100;
+  static int s =  10000;
 	  int a=20;
   private void trial() {
 
